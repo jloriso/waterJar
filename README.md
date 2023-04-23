@@ -43,3 +43,5 @@ $ python waterJarFinal.py
 ### Who do I talk to? ###
 
 Email jloriso@hawk.iit.edu
+
+Note this project was a done as partners, Cole Yadron and I are the contributors to this project.
